@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   const generateError = () => {
-    // throw new Error('Sentry - This is your sentry test error')
+    throw new Error('Sentry - This is your sentry test error')
   }
 
   return (
