@@ -400,3 +400,4 @@ Sentry.init({
 - This option is particularly useful for applications that load JavaScript from multiple sources, allowing you to filter errors based on their origin.
 
 ---
+
