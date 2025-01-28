@@ -7,3 +7,4 @@
 
 #### [Documentation for this tutorial](./Sentry-1.pdf)
 #### [Basic configuration notes](./CONFIGS-README.md)
+#### [Sentry - notes](./SENTRY-NOTES.md)
